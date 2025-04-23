@@ -1,0 +1,28 @@
+{
+    "videos":[
+        {
+            "id":1,
+            "captions":"France",
+            "url":"https://github.com/ShubhamKumaR-96/raw-files/blob/main/1.MP4",
+            "likes":245,
+            "Share":12,
+            "comments":20
+        },
+        {
+            "id":2,
+            "captions":"Banglore",
+            "url":"https://github.com/ShubhamKumaR-96/raw-files/blob/main/2.MP4",
+            "likes":25,
+            "Share":18,
+            "comments":74
+        },
+        {
+            "id":3,
+            "captions":"Germany",
+            "url":"https://github.com/ShubhamKumaR-96/raw-files/blob/main/3.MP4",
+            "likes":45,
+            "Share":8,
+            "comments":49
+        }
+    ]
+}
